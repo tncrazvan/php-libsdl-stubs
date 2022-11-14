@@ -7,12 +7,12 @@ composer require razshare/lisdl-stubs
 ```
 then configure psalm to scan the `stubs.php` file and you're done.
 
+# Intellisense
+
+![image](./stubs.gif)
+
 # Demo
 
 ![image](./demo.gif)
 
 Checkout [php-sdl](https://github.com/Ponup/php-sdl) for more info.
-
-# Stubs
-
-![image](./stubs.gif)
