@@ -1,0 +1,27 @@
+{
+    "name": "razshare/php-libsdl-stubs",
+    "type": "project",
+    "description": "Stubs for php-libsdl",
+    "homepage": "https://github.com/tncrazvan/php-libsdl-stubs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Razvan Tanase",
+            "email": "tangent.jotey@gmail.com",
+            "homepage": "https://github.com/tncrazvan",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "\\": ["src/"]
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "process-timeout": 0
+    }
+}
